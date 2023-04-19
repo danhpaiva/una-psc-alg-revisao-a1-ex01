@@ -65,33 +65,18 @@ Caso a pessoa informe uma resposta errada para uma das 04 perguntas de "SIM" e N
 o programa fará novamente a mesma pergunta por mais duas tentativas.<br>
 Caso erre por três vezes, o programa será encerrado com a mensagem:
 
-´´´
-Resultado Preliminar 
-
-Não foi possível realizar o diagnóstico.
-Gentileza procurar ajuda médica caso apareça algum sintoma.
-´´´
+"Não foi possível realizar o diagnóstico.
+Gentileza procurar ajuda médica caso apareça algum sintoma"
 
 Após coletar os dados com sucesso e realizar os cálculos, o programa deverá imprimir:
 
-```
-Resultado Preliminar
-
-Nome:
-Idade:
-Retorno viagem exterior:
-Cartão de Vacina em Dia:
-Teve sintomas recentemente:
-Teve contato com pessoa sintomática:
-Probabilidade de Infecção:
-Orientação:
-```
-
-Com as devidas respostas coletadas.
+Nome, Idade, Se o cartão de vacina está em dia, Se teve sintomas recentemente, se teve contato com pessoas infectadas,<br>
+se a pessoa está retornando de viagem, qual a probabilidade dessa pessoa estar infectada, e qual a orientação final do atendimento.<br>
 
 ### Orientações Finais
 
 O programa deverá ser feito na linguagem Java.
+Lembre-se de testar a solução antes de entregá-la.
 Você deverá criar um "Fork" deste repositório, e após isso, versionar o programa no seu repositório.
 Você deverá enviar o link (url) do seu repositório na atividade da lista proposta em aula.
 Bons estudos!
