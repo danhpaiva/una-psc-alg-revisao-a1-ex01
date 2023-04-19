@@ -71,14 +71,14 @@ Caso a pessoa informe uma resposta errada para cada uma das 04 perguntas de "SIM
 o programa fará novamente a mesma pergunta por mais duas tentativas.<br>
 Caso erre por três vezes, o programa será encerrado com a mensagem:
 
-```
+```text
 "Não foi possível realizar o diagnóstico.
 Gentileza procurar ajuda médica caso apareça algum sintoma."
 ```
 
 Após coletar os dados com sucesso e realizar os cálculos, o programa deverá imprimir:
 
-```
+```text
 Nome
 Idade
 Se o cartão de vacina está em dia
