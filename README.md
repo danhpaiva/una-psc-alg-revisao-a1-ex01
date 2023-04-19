@@ -67,7 +67,7 @@ Caso erre por três vezes, o programa será encerrado com a mensagem:
 
 ```
 "Não foi possível realizar o diagnóstico.
-Gentileza procurar ajuda médica caso apareça algum sintoma"
+Gentileza procurar ajuda médica caso apareça algum sintoma."
 ```
 
 Após coletar os dados com sucesso e realizar os cálculos, o programa deverá imprimir:
@@ -80,7 +80,7 @@ Se teve sintomas recentemente
 se teve contato com pessoas infectadas
 se a pessoa está retornando de viagem
 A probabilidade dessa pessoa estar infectada
-A orientação final do atendimento.
+A orientação final do atendimento
 ```
 
 ### Orientações Finais
