@@ -57,9 +57,9 @@ O programa deverá imprimir no final uma orientação para apoiar no direcioname
 A lógica para orientação final, será baseada na porcentagem de uma pessoa estar infectada, sendo:
 
 - Porcentagem menor ou igual a 30%: <br>"Paciente sob observação. Caso apareça algum sintoma, gentileza buscar assistência médica."
-- Porcentagem menor ou igual a 60%: "Paciente com risco de estar infectado. Gentileza aguardar em lockdown por 02 dias para ser acompanhado."
-- Porcentagem igual ou superior a 90%: "Paciente crítico! Gentileza aguardar em lockdown por 10 dias para ser acompanhado"
-- Indiferente da porcentagem, caso a pessoa esteja retornando de viagem, imediatamente imprimir: "Você ficará sob observação por 05 dias."
+- Porcentagem menor ou igual a 60%: <br>"Paciente com risco de estar infectado. Gentileza aguardar em lockdown por 02 dias para ser acompanhado."
+- Porcentagem igual ou superior a 90%: <br>"Paciente crítico! Gentileza aguardar em lockdown por 10 dias para ser acompanhado"
+- Indiferente da porcentagem, caso a pessoa esteja retornando de viagem, imediatamente imprimir: <br>"Você ficará sob observação por 05 dias."
 
 Caso a pessoa informe uma resposta errada para cada uma das 04 perguntas de "SIM" e NAO",<br>
 o programa fará novamente a mesma pergunta por mais duas tentativas.<br>
