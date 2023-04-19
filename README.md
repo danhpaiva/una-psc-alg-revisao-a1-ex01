@@ -8,7 +8,7 @@
   </a>
 </p>
 
-Exercício 01 para revisão de conteúdo programático da UC de Programação de Soluções Computacionais.<br>
+Revisão de conteúdo programático da UC de Programação de Soluções Computacionais.<br>
 Leia atentamente o texto e contexto a seguir, e em seguida desenvolva a solução proposta:
 
 ### Trecho do Texto:
@@ -54,18 +54,18 @@ O seu programa deverá calcular a porcentagem de risco que a pessoa oferece.<br>
 O cálculo da probabilidade de infecção que deverá ser realizado é <br>
 a soma da porcentagem de todas as perguntas com respostas "SIM" e "NAO" sendo:
 
-- Cartão Vacinal em Dia - "NAO" : +10% 
-- Teve Sintomas Recentes - "SIM": +30%
-- Teve contato com pessoa infectada - "SIM": +30%
-- Retornando de viagem - "SIM": +30%
+- Cartão Vacinal em Dia - "NAO" : ***+10%***
+- Teve Sintomas Recentes - "SIM": ***+30%***
+- Teve contato com pessoa infectada - "SIM": ***+30%***
+- Retornando de viagem - "SIM": ***+30%***
 
 O programa deverá imprimir no final uma orientação para apoiar no direcionamento de todas as pessoas.
 A lógica para orientação final, será baseada na porcentagem de uma pessoa estar infectada, sendo:
 
-- Porcentagem menor ou igual a 30%: <br>"Paciente sob observação. Caso apareça algum sintoma, gentileza buscar assistência médica."
-- Porcentagem menor ou igual a 60%: <br>"Paciente com risco de estar infectado. Gentileza aguardar em lockdown por 02 dias para ser acompanhado."
-- Porcentagem igual ou superior a 90%: <br>"Paciente crítico! Gentileza aguardar em lockdown por 10 dias para ser acompanhado"
-- Indiferente da porcentagem, caso a pessoa esteja retornando de viagem, imediatamente imprimir: <br>"Você ficará sob observação por 05 dias."
+- Porcentagem menor ou igual a 30%: <br>*"Paciente sob observação. Caso apareça algum sintoma, gentileza buscar assistência médica."*
+- Porcentagem menor ou igual a 60%: <br>*"Paciente com risco de estar infectado. Gentileza aguardar em lockdown por 02 dias para ser acompanhado."*
+- Porcentagem igual ou superior a 90%: <br>*"Paciente crítico! Gentileza aguardar em lockdown por 10 dias para ser acompanhado"*
+- Indiferente da porcentagem, caso a pessoa esteja retornando de viagem, imediatamente imprimir: <br>*"Você ficará sob observação por 05 dias."*
 
 Caso a pessoa informe uma resposta errada para cada uma das 04 perguntas de "SIM" e NAO",<br>
 o programa fará novamente a mesma pergunta por mais duas tentativas.<br>
@@ -91,8 +91,8 @@ A orientação final do atendimento
 
 ### Orientações Finais
 
-O programa deverá ser feito na linguagem Java.<br>
+O programa deverá ser feito na linguagem ***Java***.<br>
 Lembre-se de testar a solução antes de entregá-la.<br>
-Você deverá criar um "Fork" deste repositório, e após isso, versionar o programa no seu repositório.<br>
+Você deverá criar um ***"Fork"*** deste repositório, e após isso, versionar o programa no seu repositório.<br>
 Você deverá enviar o link (url) do seu repositório na atividade da lista proposta em aula.<br>
 Bons estudos!
