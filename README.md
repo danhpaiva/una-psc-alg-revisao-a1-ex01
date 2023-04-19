@@ -61,11 +61,11 @@ A lógica para orientação final, será baseada na porcentagem de uma pessoa es
 - Porcentagem igual ou superior a 90%: "Paciente crítico! Gentileza aguardar em lockdown por 10 dias para ser acompanhado"
 - Indiferente da porcentagem, caso a pessoa esteja retornando de viagem, imediatamente imprimir: "Você ficará sob observação por 05 dias."
 
-Caso a pessoa informe uma resposta errada para uma das 04 perguntas de "SIM" e NAO",<br>
+Caso a pessoa informe uma resposta errada para cada uma das 04 perguntas de "SIM" e NAO",<br>
 o programa fará novamente a mesma pergunta por mais duas tentativas.<br>
 Caso erre por três vezes, o programa será encerrado com a mensagem:
 
-"Não foi possível realizar o diagnóstico.
+"Não foi possível realizar o diagnóstico.<br>
 Gentileza procurar ajuda médica caso apareça algum sintoma"
 
 Após coletar os dados com sucesso e realizar os cálculos, o programa deverá imprimir:
