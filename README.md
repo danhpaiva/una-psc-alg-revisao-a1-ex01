@@ -2,6 +2,12 @@
 
 ## Revisão - Exercício 01
 
+<p align="center">
+  <a href="#">
+    <img src="logo\virus.png" width="300" alt="Virus">
+  </a>
+</p>
+
 Exercício 01 para revisão de conteúdo programático da UC de Programação de Soluções Computacionais.<br>
 Leia atentamente o texto e contexto a seguir, e em seguida desenvolva a solução proposta:
 
