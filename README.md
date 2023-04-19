@@ -2,7 +2,7 @@
 
 ## Revisão - Exercício 01
 
-Exercício 01 para revisão de conteúdo programático da UC de Programação de Soluções Computacionais.
+Exercício 01 para revisão de conteúdo programático da UC de Programação de Soluções Computacionais.<br>
 Leia atentamente o texto e contexto a seguir, e em seguida desenvolva a solução proposta:
 
 ### Trecho do Texto:
@@ -66,15 +66,21 @@ o programa fará novamente a mesma pergunta por mais duas tentativas.<br>
 Caso erre por três vezes, o programa será encerrado com a mensagem:
 
 ```
-"Não foi possível realizar o diagnóstico.<br>
+"Não foi possível realizar o diagnóstico.
 Gentileza procurar ajuda médica caso apareça algum sintoma"
 ```
 
 Após coletar os dados com sucesso e realizar os cálculos, o programa deverá imprimir:
 
 ```
-Nome, Idade, Se o cartão de vacina está em dia, Se teve sintomas recentemente, se teve contato com pessoas infectadas,
-se a pessoa está retornando de viagem, qual a probabilidade dessa pessoa estar infectada, e qual a orientação final do atendimento.
+Nome
+Idade
+Se o cartão de vacina está em dia
+Se teve sintomas recentemente
+se teve contato com pessoas infectadas
+se a pessoa está retornando de viagem
+A probabilidade dessa pessoa estar infectada
+A orientação final do atendimento.
 ```
 
 ### Orientações Finais
