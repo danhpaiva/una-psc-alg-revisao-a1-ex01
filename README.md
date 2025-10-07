@@ -25,7 +25,7 @@ que a humanidade já enfrentou", diz o virologista Edison Luiz Durigon, professo
 do Instituto de Ciências Biomédicas da Universidade de São Paulo (ICB-USP)."
 
 Fonte: https://www.bbc.com/portuguese/brasil-65214720 <br>
-Acessado em 19 de Abril de 2023
+Acessado em 07/10/2025
 
  ### Contexto:
 
